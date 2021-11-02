@@ -1,8 +1,8 @@
 # kids_education_platform
 
-A new Flutter project.
+## Screenshots: 
 
-<img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841857.png" width="150" height="300" title="Splash Screen"> <img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841869.png" width="150" height="300" title="Splash Screen"> <img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841895.png" width="150" height="300" title="Splash Screen">
+<img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841857.png" width="300" height="600" title="Splash Screen"> <img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841869.png" width="300" height="600" title="Splash Screen"> <img src="https://github.com/Mohammed187/kids_education_platform/blob/main/Screenshot_1635841895.png" width="300" height="600" title="Splash Screen">
 
 ## Getting Started
 
